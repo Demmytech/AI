@@ -5,4 +5,7 @@ python('hello world')
 #=python script
 print('hello world')
 deploy to staging
+echo "good job"
+codes tested and received 
+
 
