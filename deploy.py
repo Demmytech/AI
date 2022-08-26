@@ -4,3 +4,5 @@ echo "Hello World"
 python('hello world')
 #=python script
 print('hello world')
+deploy to staging
+
